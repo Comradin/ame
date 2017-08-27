@@ -14,6 +14,10 @@ Things I would like to experiment with:
 * algorithms for maze genration
 	* Bard's Tale like 40x40
 	* Cave like
+* become more familiar with git
+    * github
+    * branches
+    * releases
 
 # Second Purpose
 
