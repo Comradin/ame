@@ -1,4 +1,4 @@
-// Copyright © 2017 Marcus Franke <marcus.franke@gmail.com>
+// Copyright © 2018 Marcus Franke <marcus.franke@gmail.com>
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
